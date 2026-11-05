@@ -2,3 +2,6 @@ Hi, I'm Roja. I am an Engineering student interested in learning programming and
 Learning Python
 Interested in cloud computing
 Goal: contribute to open source
+## Projects
+I am learning web development and GitHub.
+I plan to build projects using HTML, CSS, and JavaScript.
